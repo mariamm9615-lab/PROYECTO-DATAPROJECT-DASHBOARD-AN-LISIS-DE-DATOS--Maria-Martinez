@@ -30,8 +30,7 @@ Todo el proceso se ha resuelto usando **exclusivamente Excel**: las hojas de lim
 ```
 ├── README.md                                   <- este archivo
 ├── Master_Analisis_Exploratorio_Superstore.xlsx <- archivo Excel único con todo el proceso
-└── data/
-    └── superstore_original_raw.csv             <- datos originales, sin ninguna modificación
+└── superstore_original_raw.csv                 <- datos originales, sin ninguna modificación
 ```
 
 ### Hojas del archivo Excel
