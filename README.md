@@ -92,4 +92,4 @@ Este es un proyecto académico individual y no está abierto a contribuciones ex
 
 - **Autora:** María — Bootcamp Data & Analytics.
 - **Dataset:** Superstore Dataset, publicado en [Kaggle](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final).
-- Construido con la asistencia de Claude (Anthropic) para la limpieza, el diseño de fórmulas y la redacción del informe.
+
